@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الدول</string>
+    <string name="nomePais">المملكة العربية السعودية</string>
+    <string name="imagemBandeira">المملكة العربية السعودية</string>
+    <string name="imagemComida">تورم القدمين</string>
+    <string name="nomeComida">تورم القدمين</string>
+</resources>

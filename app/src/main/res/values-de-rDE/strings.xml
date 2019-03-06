@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Länder</string>
+    <string name="imagemComida">Brätwurst</string>
+    <string name="nomeComida">Brätwurst</string>
+    <string name="nomePais">Deutschland</string>
+    <string name="imagemBandeira">Deutschland</string>
+</resources>
